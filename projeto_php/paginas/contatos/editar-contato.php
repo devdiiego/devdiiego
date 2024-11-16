@@ -6,37 +6,60 @@ $rs = mysqli_query($conexao, $sql) or die("Erro ao executar a consulta." . mysql
 $dados = mysqli_fetch_assoc($rs);
 ?>
 <header>
-    <h3>Editar Contato</h3>
+    <h3><i class="bi bi-pencil-square"></i> Editar Contato</h3>
 </header>
 
 <form action="index.php?menuop=atualizar-contato" method="post">
 
 <div>
     <label for="idContato">ID:</label>
-    <input type="text" name="idContato" value="<?= $dados["idContato"] ?? '' ?>">
+    <div class="input-group mb-3">
+        <span class="input-group-text"><i class="bi bi-person-vcard-fill"></i></></span>
+        <input class="form-control" type="text" name="idContato" value="<?= $dados["idContato"] ?>">
+    </div>
 </div>
     
     <div>
         <label for="nomeContato">Nome:</label>
-        <input type="text" name="nomeContato" value="<?= $dados["nomeContato"] ?>">
+        <div class="input-group mb-3">
+            <span class="input-group-text"><i class="bi bi-person-fill"></i></span>
+            <input class="form-control" type="text" name="nomeContato" value="<?= $dados["nomeContato"] ?>">
+        </div>
     </div>
 
     <div>
         <label for="emailContato">E-mail:</label>
-        <input type="email" name="emailContato" value="<?= $dados["emailContato"] ?>">
+        <div class="input-group mb-3">
+            <span class="input-group-text">@</span>
+            <input class="form-control" type="email" name="emailContato" value="<?= $dados["emailContato"] ?>">
+        </div>
     </div>
 
     <div>
         <label for="telefoneContato">Telefone:</label>
-        <input type="text" name="telefoneContato" value="<?= $dados["telefoneContato"] ?>">
+        <div class="input-group mb-3">
+            <span class="input-group-text"><i class="bi bi-telephone-fill"></i></span>
+            <input class="form-control" type="text" name="telefoneContato" value="<?= $dados["telefoneContato"] ?>">
+        </div>
+    </div>
+
+    <div>
+        <label for="enderecoContato">Endereço:</label>
+        <div class="input-group mb-3">
+            <span class="input-group-text"><i class="bi bi-geo-alt-fill"></i></span>
+            <input class="form-control" type="text" name="enderecoContato" value="<?= $dados["enderecoContato"] ?>">
+        </div>
     </div>
 
     <div>
         <label for="data_nasc_Contato">Data de Nascimento:</label>
-        <input type="date" name="data_nasc_Contato" value="<?= $dados["data_nasc_Contato"] ?>">
+        <div class="input-group mb-3">
+            <span class="input-group-text"><i class="bi bi-calendar"></i></span>
+            <input class="form-control" type="date" name="data_nasc_Contato" value="<?= $dados["data_nasc_Contato"] ?>">
+        </div>
     </div>
 
-    <div>
-        <input type="submit" value="Atualizar" name="btnAtualizar">
+    <div class="mb-3">
+        <input class="btn btn-success" type="submit" value="Atualizar" name="btnAtualizar">
     </div>
 </form>

@@ -20,10 +20,11 @@ if ($conexao->query($sql) === TRUE) {
     
     // Cria a tabela tb_contato se não existir
     $sql = "CREATE TABLE IF NOT EXISTS tb_contato(
-        idcontato INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+        idContato INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
         nomeContato VARCHAR(200) NOT NULL,
         emailContato VARCHAR(100) NOT NULL,
         telefoneContato VARCHAR(50) NOT NULL,
+        enderecoContato VARCHAR(200) NOT NULL,
         data_nasc_Contato DATE NOT NULL,
         tagFavorito TINYINT(1) DEFAULT NULL
     )";
