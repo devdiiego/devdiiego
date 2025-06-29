@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Diego!
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiiego&show_icons=true&theme=nightowl" alt="Estatísticas GitHub Diego"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiiego&layout=compact&theme=nightowl" alt="Linguagens mais usadas por Diego"/>
 </div>
