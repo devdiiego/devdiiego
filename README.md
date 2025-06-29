@@ -1,9 +1,19 @@
 ## 👋 Olá, eu sou o Diego!
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiiego&show_icons=true&theme=nightowl" alt="Estatísticas GitHub Diego"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiiego&layout=compact&theme=nightowl" alt="Linguagens mais usadas por Diego"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiiego&show_icons=true&theme=nightowl" alt="Estatísticas GitHub Diego"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiiego&layout=compact&theme=nightowl" alt="Linguagens mais usadas por Diego"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Tecnologias que utilizo:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>
@@ -15,6 +25,8 @@
 </div>
 
 ---
+
+### 🌐 Conecte-se comigo:
 
 <div align="center">
   <a href="https://www.instagram.com/odiiego__/" target="_blank">
