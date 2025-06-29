@@ -13,6 +13,8 @@
 
 ---
 
+### 🚀 Tecnologias que utilizo:
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/>
@@ -24,8 +26,13 @@
 
 ---
 
+### 🌐 Conecte-se comigo:
+
 <div align="center">
   <a href="https://www.instagram.com/odiiego__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diego-feitosa-539868237" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
