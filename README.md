@@ -1,7 +1,5 @@
 ## 👋 Olá, eu sou o Diego!
 
-Sou estudante de Ciência da Computação apaixonado por tecnologia, programação e resolução de problemas. Sempre buscando aprender mais e contribuir com projetos que impactem positivamente o mundo!
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiiego&show_icons=true&theme=nightowl" alt="Estatísticas GitHub Diego"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiiego&layout=compact&theme=nightowl" alt="Linguagens mais usadas por Diego"/>
