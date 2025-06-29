@@ -13,8 +13,6 @@
 
 ---
 
-### 🚀 Tecnologias que utilizo:
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/>
@@ -25,8 +23,6 @@
 </div>
 
 ---
-
-### 🌐 Conecte-se comigo:
 
 <div align="center">
   <a href="https://www.instagram.com/odiiego__/" target="_blank">
