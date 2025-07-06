@@ -19,8 +19,6 @@
 
 ### 🚀 Tecnologias que estou aprendendo e utilizando:
 
-### 🚀 Tecnologias que estou aprendendo e utilizando:
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5"/>
   &nbsp;&nbsp;
